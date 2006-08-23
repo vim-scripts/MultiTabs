@@ -1,0 +1,10 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1639
+
+Open N files, each one in his own tab, like this: 
+    :NTAB file1 file2 ... fileN
+
+Synonyms:    :NTABS, :ETABS, TABS, OPENTABS
+
+Enjoy.
+
+Yakov Lerner
